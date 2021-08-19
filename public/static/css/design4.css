@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+}
+.block {
+  position: absolute;
+  top: 200px;
+  left: 16px;
+  background-color: inherit;
+  color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 38px;
+}
+.block2 {
+  position: absolute;
+  top: 200px;
+  right: 16px;
+  background-color: inherit;
+  color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 38px;
+}

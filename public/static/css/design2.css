@@ -1,0 +1,15 @@
+
+.container {
+  position: relative;
+}
+.text-block {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  background-color: inherit;
+  color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 38px;
+}
